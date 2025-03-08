@@ -21,7 +21,7 @@ sudo pacman -Syu
 sudo pacman -S glfw
 ```
 
-# Example Makefile:
+# Example of dynamic Makefile if your using both systems:
 ```Makefile
 BUILD_DIR    = ./build
 NAME		 = t
